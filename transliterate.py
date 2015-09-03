@@ -752,7 +752,9 @@ E_WORDS = {
 # Not to confuse with ш
 SH_WORDS = {
     'a(sh)ob': 'асҳоб',
-    'mu(sh)af': 'мусҳаф'
+    'mu(sh)af': 'мусҳаф',
+    'ma(sh)': 'масҳ',
+    'I(sh)oq': 'Исҳоқ'
 }
 # Not to confuse with ё
 YO_WORDS = {
